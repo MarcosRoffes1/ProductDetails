@@ -1,0 +1,47 @@
+.left{
+    padding: 0 8%;
+    height: 100vh;
+    width: 50%;
+}
+
+
+.leftHeading{
+    font-size: 50px;
+    margin-top:80px ;
+
+}
+
+.leftText-2{ 
+    margin-top: 40px;
+    line-height: 1.5;
+
+}
+
+
+.leftText-3 {
+    margin-top: 40px;
+    line-height: 1.5;
+}
+
+.leftButton {
+    background-color: #DA0016;
+    color: #fff;
+    width: 150px;
+    height: 50px;
+    cursor: pointer;
+    font-size: 18px ;
+    border: none;
+    margin-top:12px;
+
+}
+
+.leftButtonIcon{
+    font-size: 20px;
+    margin-left: 5px;
+    position: relative;
+    top: 4px;
+}
+
+.leftButton:hover .leftButtonIcon {
+    display:none ;
+}
